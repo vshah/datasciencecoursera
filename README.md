@@ -1,1 +1,4 @@
-SAMPLE README
+datasciencecoursera
+===================
+
+Assignment 1
